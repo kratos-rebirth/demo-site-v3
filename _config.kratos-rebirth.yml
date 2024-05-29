@@ -185,7 +185,7 @@ comments:
                 }, {
                   clientID: 'GitHub Application Client ID',
                   clientSecret: 'GitHub Application Client Secret',
-                  repo: "demo-site",
+                  repo: "demo-site-v3",
                   owner: "kratos-rebirth",
                   admin: ["Candinya"],
                   distractionFreeMode: false,
